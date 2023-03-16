@@ -1,0 +1,22 @@
+nav {
+    height: 69px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid seashell;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+}
+
+#logo {
+    height: 50px;
+    margin: 10px;
+}
+ul {
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    text-decoration: underline;
+    margin: 10px;
+}

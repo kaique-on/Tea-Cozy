@@ -1,0 +1,60 @@
+#section1 {
+    height: 700px;
+    width: 1200px;
+    background-image: url(../Imagens/potinho.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+#div1 {
+    background-color: black;
+    width:100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#section2 {
+    width: 1000px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+h4 {
+    margin-top: 8px;
+}
+
+.divImagens {
+    display: flex;
+    justify-content: center;
+    gap: 33px;
+}
+
+.imagens {
+    height: 200px;
+    width: 300px;
+}
+
+#section3 {
+    background-image: url(../Imagens/xicara.jpg);
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+#divCaixas {
+    display: flex;
+    gap: 40px;
+}
